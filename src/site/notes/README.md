@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["gardenEntry"],"dg-home":true,"dg-publish":true,"created":"2023-04-25T01:00:52.000+08:00","modified":"2023-09-01T06:54:09.923+08:00","permalink":"/readme/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/readme/","tags":["gardenEntry"]}
 ---
 
 - 用了 Git 做备份管理，所以有了这个习惯性文件。也正好用来做数字花园的介绍。
