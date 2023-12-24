@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":["Guide","English"],"created":"2023-09-23T18:02:37.487+08:00","modified":"2023-10-10T09:43:13.714+08:00","dg-publish":true,"permalink":"/2-english/1-guide/english-learning-guide/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/2-english/1-guide/english-learning-guide/","tags":["Guide","English"]}
 ---
 
 - [如何才能学好英语？"二语习得"了解一下！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ZW4y1S78Y/)
