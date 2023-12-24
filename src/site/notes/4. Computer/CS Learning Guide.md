@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"created":"2023-09-23T18:05:27.007+08:00","modified":"2023-10-10T09:43:13.814+08:00","dg-publish":true,"permalink":"/4-computer/cs-learning-guide/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/4-computer/cs-learning-guide/"}
 ---
 
 [CS自学指南](https://csdiy.wiki/)
