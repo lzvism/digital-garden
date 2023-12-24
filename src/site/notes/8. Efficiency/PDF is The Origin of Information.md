@@ -1,5 +1,5 @@
 ---
-{"aliases":null,"tags":null,"created":"2022-08-25T05:09:14.000+08:00","modified":"2023-10-10T09:43:13.656+08:00","dg-publish":true,"permalink":"/8-efficiency/pdf-is-the-origin-of-information/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/8-efficiency/pdf-is-the-origin-of-information/"}
 ---
 
 # PDF科普
