@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-english/1-guide/english-learning-guide/","tags":["Guide","English"]}
+{"dg-publish":true,"permalink":"/2-english/1-guide/english-learning-guide/","tags":["Guide"]}
 ---
 
 - [如何才能学好英语？"二语习得"了解一下！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ZW4y1S78Y/)
