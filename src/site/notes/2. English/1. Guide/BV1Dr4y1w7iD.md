@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/2-english/1-guide/bv-1-dr4y1w7i-d/"}
+---
+
+[史上最强错误英语学习方法合集，你中了几个？\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1Dr4y1w7iD/?spm_id_from=333.999.0.0&vd_source=0e8d5a2d613f40b7bb080c0607a88b1e) 
+消极情绪是最大的敌人，产生的情景:
+- 机械重复 repetition: 在单元时间内通过重复运用短期记忆来消化划分出的单词、语法、听力、写作、阅读等
+- 错误预期 false expectations: 设定追求"母语水平"的目标，这比平时多听说读写多上好几个纬度的标准，英式和美式，腔调和习俗，只需要每天进步一点点
+- 强迫输出 involuntary output: 听说读写四个字符输出的说写占一半，于是开始尝试增大输出，而又开始担心输出有错误。但是实际的语言应用中输入输出应该八二、九一开
+- 溺水式沉浸 passive immersion: 手机电脑都改英语等，如同跳过浅水区学习而进入深水区
+最后。每个人有适合自己的方法？但是方法最好是带着快乐，英语是通向更广阔世界的钥匙
+
+Don’t study English.
+Learn about the things you love in English.
+But there‘s something better..
+Try to love English itself.
