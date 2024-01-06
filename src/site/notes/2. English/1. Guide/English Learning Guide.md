@@ -2,11 +2,16 @@
 {"dg-publish":true,"permalink":"/2-english/1-guide/english-learning-guide/","tags":["Guide"]}
 ---
 
-- [如何才能学好英语？"二语习得"了解一下！\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1ZW4y1S78Y/)
 - [罗肖尼Shawney的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/323794482/video)
 - [FREE高考英语零基础入门训练\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1MY4y1P7Jj/)
 - [Profile - Leonard - FreeMdict Forum](https://forum.freemdict.com/u/leonard/summary)
 # Language Teaching
+- [[2. English/1. Guide/社恐学口语｜我和自己练口语的5个绝招\|社恐学口语｜我和自己练口语的5个绝招]]
+- [[2. English/1. Guide/压箱底系列故事｜我的英语是如何实现顿悟的！（与上一个视频有连续性）\|压箱底系列故事｜我的英语是如何实现顿悟的！（与上一个视频有连续性）]]
+- [[2. English/1. Guide/英语学习｜好东西不要藏着掖着系列｜英语原著阅读神器推荐\|英语学习｜好东西不要藏着掖着系列｜英语原著阅读神器推荐]]
+- [[2. English/1. Guide/我是怎么从零学好英语的？英语百万博主，28年成长经历\|我是怎么从零学好英语的？英语百万博主，28年成长经历]]
+- [[2. English/1. Guide/史上最强错误英语学习方法合集，你中了几个？\|史上最强错误英语学习方法合集，你中了几个？]]
+- [[2. English/1. Guide/如何才能学好英语？“二语习得”了解一下！\|如何才能学好英语？“二语习得”了解一下！]]
 - [ ] [[2. English/1. Guide/把你的英语用起来\|把你的英语用起来]]
 - [如何用iPad学英语？——通篇废话\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV15E411f74R/)
 	- 看自己专业的，休闲的，近代的
@@ -101,6 +106,10 @@
 	- Mastering the American Accent
 - [6套你不得不知的美语发音教材 - 知乎](https://zhuanlan.zhihu.com/p/30763732)
 	- [dailydictation - YouTube](https://www.youtube.com/@dailydictation)
+	- 
+# English Original Edition Books
+- [ ] 《Diary of a Wimpy Kid》
+
 # English Classification
 H310.1 非标准英语 Non-standard English 
 H310.4 英语水平考试 English proficiency tests 
@@ -108,7 +117,8 @@ H310.9 英语发展史 History of English development
 H311 语音 Phonetics 
 H312 文字 Orthography 
 H313 语义、词汇、词义 Semantics, vocabulary, and word meaning 
-H314 语法 Grammar H315 写作、修辞 Writing and rhetoric 
+H314 语法 Grammar 
+H315 写作、修辞 Writing and rhetoric 
 H315.9 翻译 Translation 
 H316 词典 Dictionaries 
 H317 方言 Dialects 
