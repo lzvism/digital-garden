@@ -6,12 +6,12 @@
 - [FREE高考英语零基础入门训练\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV1MY4y1P7Jj/)
 - [Profile - Leonard - FreeMdict Forum](https://forum.freemdict.com/u/leonard/summary)
 # Language Teaching
-- [[2. English/1. Guide/社恐学口语｜我和自己练口语的5个绝招\|社恐学口语｜我和自己练口语的5个绝招]]
-- [[2. English/1. Guide/压箱底系列故事｜我的英语是如何实现顿悟的！（与上一个视频有连续性）\|压箱底系列故事｜我的英语是如何实现顿悟的！（与上一个视频有连续性）]]
-- [[2. English/1. Guide/英语学习｜好东西不要藏着掖着系列｜英语原著阅读神器推荐\|英语学习｜好东西不要藏着掖着系列｜英语原著阅读神器推荐]]
-- [[2. English/1. Guide/我是怎么从零学好英语的？英语百万博主，28年成长经历\|我是怎么从零学好英语的？英语百万博主，28年成长经历]]
-- [[2. English/1. Guide/史上最强错误英语学习方法合集，你中了几个？\|史上最强错误英语学习方法合集，你中了几个？]]
-- [[2. English/1. Guide/如何才能学好英语？“二语习得”了解一下！\|如何才能学好英语？“二语习得”了解一下！]]
+- [[2. English/1. Guide/BV1mG411e7N5\|BV1mG411e7N5]]
+- [[2. English/1. Guide/BV1oC4y1Z7mE\|BV1oC4y1Z7mE]]
+- [[2. English/1. Guide/BV1qu4y1A7cj\|BV1qu4y1A7cj]]
+- [[2. English/1. Guide/BV1dM411S7GG\|BV1dM411S7GG]]
+- [[2. English/1. Guide/BV1Dr4y1w7iD\|BV1Dr4y1w7iD]]
+- [[2. English/1. Guide/BV1ZW4y1S78Y\|BV1ZW4y1S78Y]]
 - [ ] [[2. English/1. Guide/把你的英语用起来\|把你的英语用起来]]
 - [如何用iPad学英语？——通篇废话\_哔哩哔哩\_bilibili](https://www.bilibili.com/video/BV15E411f74R/)
 	- 看自己专业的，休闲的，近代的
