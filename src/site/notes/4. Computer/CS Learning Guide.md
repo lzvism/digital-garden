@@ -1,10 +1,7 @@
 ---
-aliases: 
-tags: 
-created: 2023-09-23T18:05:27.007+08:00
-modified: 2023-10-10T09:43:13.814+08:00
-dg-publish: true
+{"dg-publish":true,"permalink":"/4-computer/cs-learning-guide/"}
 ---
+
 [CS自学指南](https://csdiy.wiki/)
 [首页 | CSView计算机招聘知识分享](http://www.csview.cn/)
 # C/C++
