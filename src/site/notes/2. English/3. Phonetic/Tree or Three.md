@@ -1,0 +1,31 @@
+---
+{"dg-publish":true,"permalink":"/2-english/3-phonetic/tree-or-three/","tags":["Book"]}
+---
+
+# Summaryli
+- window
+	- 时间表达，分 past 时
+- banana(2)
+	- bowl
+	- piece of paper
+	- have at the end of the sentence，strong
+- mouth
+- nose
+- ring
+	- 进行时 ing 常用
+- pen
+	- 一点比较级
+- man
+	- æ
+- cup
+- heart
+	- Look at that 连读
+- hat
+	- 元音
+	- 字母 h 发音
+- clock
+- ball
+	- in it 连读
+- banana (3)
+	- 元音连读
+	- can 句末
